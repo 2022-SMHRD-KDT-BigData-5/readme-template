@@ -13,12 +13,13 @@
 * 기능5
 
 ## 3. 개발환경
-|제목|내용|설명|
-|------|---|---|
-|사용언어|Thony Python /  Java 1.8 / HTML / CSS / Javascript  /  Bootstrap|
-|개발도구|RaspberryPi  /  Arduino  /  VisualStudio  /  AndroidStudio  / SpringFramework|
+|제목|내용|
+|------|---|
+|사용언어|Thony Python /  Java 1.8 / HTML / CSS / Javascript / etc..|
+|사용한 라이브러리| Bootstrap / Kakao Map / etc...|
+|개발도구|RaspberryPi  /  Arduino  /  VisualStudio  /  AndroidStudio  / SpringFramework / etc...|
 |서버환경|tomcat 9.0|
-|데이터베이스|Firebase  /  oracle 11g|
+|데이터베이스|Firebase  /  oracle 11g / etc..|
 
 ## 4. 아키텍처(구조)
 ![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
