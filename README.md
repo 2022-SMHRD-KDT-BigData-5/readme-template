@@ -1,4 +1,4 @@
-# 뷰 클로제(팀명: MATCH&FIX)
+# 꽃 보러 갈래?(팀명: MATCH&FIX)
 ![image](https://user-images.githubusercontent.com/99248886/166611412-9fc116d1-6efe-40ea-acc6-2ddd7b4f26e7.png)
 
 ## 1. 프로젝트명
@@ -13,9 +13,9 @@
 * 기능5
 
 ## 3. 개발환경
-|제목|내용|
+|구분|내용|
 |------|---|
-|사용언어|Thony Python /  Java 1.8 / HTML / CSS / Javascript / etc..|
+|사용언어|Java, HTML, CSS, JavaScript|
 |사용한 라이브러리| Bootstrap / Kakao Map / etc...|
 |개발도구|RaspberryPi  /  Arduino  /  VisualStudio  /  AndroidStudio  / SpringFramework / etc...|
 |서버환경|tomcat 9.0|
