@@ -17,7 +17,7 @@
 |------|---|
 |사용언어|Java, HTML, CSS, JavaScript|
 |사용한 라이브러리| Bootstrap / Kakao Map / etc...|
-|개발도구|RaspberryPi  /  Arduino  /  VisualStudio  /  AndroidStudio  / SpringFramework / etc...|
+|개발도구|Eclipse / RaspberryPi  /  Arduino  /  VisualStudioCode  /  AndroidStudio  / SpringFramework / etc...|
 |서버환경|tomcat 9.0|
 |데이터베이스|Firebase  /  oracle 11g / etc..|
 
