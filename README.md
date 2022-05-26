@@ -24,6 +24,10 @@
 ## 4. 시스템 아키텍처(구조)
 ![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
 
+or
+
+![시스템아키텍처](https://user-images.githubusercontent.com/25995055/170392334-1ab9619d-84ee-4ed1-bb24-728e7df50c6a.png)
+
 
 ## 5. 기능 흐름도
 ### 서비스 흐름도(유스케이스)
