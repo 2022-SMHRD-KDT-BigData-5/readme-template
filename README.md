@@ -28,6 +28,10 @@
 
 ![시스템아키텍처](https://user-images.githubusercontent.com/25995055/170392500-b7a8a992-ae9e-4b42-80e9-f5187e556f3b.png)
 
+## or 
+![image](https://user-images.githubusercontent.com/25995055/171581143-64c8b5e2-ef1b-4bda-87ff-4c4aaa272dca.png)
+
+
 
 ## 5. 기능 흐름도
 ### 서비스 흐름도(유스케이스)
