@@ -1,5 +1,6 @@
 # 📎 꽃 보러 갈래?(팀명: MATCH&FIX)
-![image](https://user-images.githubusercontent.com/99248886/166611412-9fc116d1-6efe-40ea-acc6-2ddd7b4f26e7.png)
+![그림1](https://user-images.githubusercontent.com/25995055/178395409-01bdd409-f216-4f8c-8ddf-2bea401bd828.png)
+
 
 ## 👀 서비스 소개
 * 서비스명: 모바일 앱을 활용한 IoT 스마트 옷장
