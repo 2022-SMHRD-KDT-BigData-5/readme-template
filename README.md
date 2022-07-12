@@ -74,11 +74,11 @@
     <td align="center"><b>Deep Learning</b></td>
   </tr>
     <tr>
-    <td align="center"><a href="https://github.com/JuhwanLeeKR" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/cpk0709" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/cpk0709" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/cpk0709" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/cpk0709" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
   </tr>
 </table>
 
