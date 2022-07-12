@@ -90,7 +90,7 @@
 ![image](https://user-images.githubusercontent.com/25995055/169925318-102784c2-893f-4fd7-bec9-a54c44b669d4.png)
 <br>
 
-## 🖥 SW 동작 화면
+## 🖥 화면 구성
 
 ### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
 ![image](https://user-images.githubusercontent.com/99248886/166612486-a17733a6-a3bb-4fd5-873f-57020ab80a16.png)
