@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/99248886/166612374-a2f6d85b-501d-4a51-a0d1-8cde0c07ebf2.png)
 
 
-## 👨‍👩‍👦‍👦 팀원 단위 업무 분장 및 결과표
+## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
